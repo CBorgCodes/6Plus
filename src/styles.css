@@ -1,0 +1,55 @@
+h1 {
+  color: #264653;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 25px;
+  font-weight: 100;
+  line-height: 30px;
+  text-align: center;
+}
+ul {
+  margin-left: -30px;
+  text-align: center;
+}
+
+li {
+  color: #95b7c5;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 20px;
+  list-style: none;
+}
+
+.weather-app {
+  border: 3px solid #e76f51;
+  padding: 20px;
+  margin: 30px;
+  max-width: 600px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+.temperature {
+  color: #e76f51;
+  font-size: 64px;
+  font-weight: 400px;
+}
+
+.units {
+  position: relative;
+  top: -32px;
+}
+
+.weather-search-form {
+  margin-bottom: 25px;
+}
+
+.day-container {
+  color: #f4a261;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 20px;
+  margin: auto;
+  position: relative;
+}
